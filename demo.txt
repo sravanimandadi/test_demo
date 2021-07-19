@@ -5,7 +5,3 @@ welcome to git
 branch demo
 hello 
 how are you
-
-
-
-exit
